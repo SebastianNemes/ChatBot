@@ -29,6 +29,5 @@ e.configure(bg='gainsboro')
 send = Button(root, text='Send', command=send, height=2, width=6, font=FONT_BOLD, bg='red').grid(row=1, column=1)
 
 
-
 root.title("Bine ai venit!")
 root.mainloop()
